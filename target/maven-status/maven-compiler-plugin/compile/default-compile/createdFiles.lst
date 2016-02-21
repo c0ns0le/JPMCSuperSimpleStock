@@ -1,0 +1,9 @@
+com\jpmc\simple\stock\constant\TradeIndicator.class
+com\jpmc\simple\stock\service\impl\SimpleStockServiceImpl.class
+com\jpmc\simple\stock\service\SimpleStockService.class
+com\jpmc\simple\stock\service\impl\SimpleStockServiceImpl$1.class
+com\jpmc\simple\stock\constant\StockType.class
+com\jpmc\simple\stock\repo\impl\StockRepositoryImpl.class
+com\jpmc\simple\stock\model\Stock.class
+com\jpmc\simple\stock\repo\StockRepository.class
+com\jpmc\simple\stock\model\Trade.class
